@@ -45,12 +45,10 @@
    <a href="https://www.linkedin.com/in/ahmed-naser-5075232b1/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
    </a>
-   <a href="[https://discord.com/channeels/@m](https://www.facebook.com/people/Ahmed-Naser/pfbid0hzCx6s3HN8uGwug17H99Leq7nYyrkamQRRHWRA5qME8YpgwMBtDEpmbDaaFksFdSl/?mibextid)">
+   <a href="https://www.facebook.com/people/Ahmed-Naser/pfbid0hzCx6s3HN8uGwug17H99Leq7nYyrkamQRRHWRA5qME8YpgwMBtDEpmbDaaFksFdSl/?mibextid">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
    </a>
-   <a href="C:\Users\User\Downloads\photo_5922261578059727853_y.jpg">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-   </a>
+  
   
   
   
