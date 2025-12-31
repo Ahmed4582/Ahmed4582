@@ -52,9 +52,9 @@
 ---
 ## 📊 GitHub Stats
 <p align="center">
-  ![Commits](https://img.shields.io/badge/Commits-2000-brightgreen)
-  ![Repositories](https://img.shields.io/badge/Repos-50-blue)
-  ![Languages](https://img.shields.io/badge/Top_Languages-JS,TS-yellow)
+  <img src="https://img.shields.io/badge/Commits-2000-brightgreen" />
+  <img src="https://img.shields.io/badge/Repositories-50-blue" />
+  <img src="https://img.shields.io/badge/Top_Languages-JS,TS-yellow" />
 </p>
 
 ---
