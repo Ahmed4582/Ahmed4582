@@ -52,9 +52,10 @@
 ---
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed4582&show_icons=true&theme=dark&count_private=true&hide_border=false&hide_title=false" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed4582&layout=compact&theme=dark&hide_border=false&hide_title=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed4582&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed4582&layout=compact&theme=tokyonight" height="180" />
 </p>
+
 
 ---
 
