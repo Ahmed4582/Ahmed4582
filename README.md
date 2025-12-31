@@ -10,7 +10,11 @@
 
 ---
 
-## 🚀 About Me
+## 🖼️ About Me
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" alt="Coding GIF" width="300"/>
+</p>
+
 - 💻 Passionate Frontend Developer building interactive web apps with React & Next.js.  
 - 🎨 Love sleek, responsive, and modern UI/UX design.  
 - 🌱 Continuously learning new technologies & frameworks.  
@@ -19,7 +23,6 @@
 ---
 
 ## 🛠️ Tech Stack & Tools
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" /> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" /> &nbsp;
@@ -36,20 +39,7 @@
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed4582&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed4582&layout=compact&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed4582&show_icons=true&theme=radical&hide_border=false&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed4582&layout=compact&theme=radical&hide_border=false" height="180" />
 </p>
-
----
-
-## 🎯 Goals
-- Build scalable web applications with React & Next.js.  
-- Improve backend knowledge with Node.js & Supabase.  
-- Contribute to open-source projects.  
-
----
-
-## ⚡ Fun Fact
-> "Coding is like magic — every line you write creates something from nothing." ✨
